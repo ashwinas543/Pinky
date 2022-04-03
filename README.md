@@ -1,10 +1,10 @@
 ## Thanks for Everything
-### We will always remember you..
+### We will always remember you 🙂..
 
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/zdcqaaG.jpeg" width="200" height="200"/>
+  <img border-radius: 15px src="https://i.imgur.com/8ueaasY.jpeg" width="500" height="500"/>
   <p align="center">
-<a href="#"><img title="PinkyMwol" src="https://img.shields.io/badge/afnanplk-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="RiasMwol" src="https://img.shields.io/badge/LUTTAPPI?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://chat.whatsapp.com/EvB51MUGGmCIblMLGW2hoY"><img title="join support" src="https://img.shields.io/badge/join_support-afnanplk/pinkymwol?color=black&style=for-the-badge&logo=whatsapp"></a>
