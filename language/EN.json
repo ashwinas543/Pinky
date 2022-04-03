@@ -9,7 +9,7 @@
             "DESC": "Description",
             "EXAMPLE": "Example",
             "NOT_FOUND": "*I couldnt find a command like this*",
-            "PLKADMIN": ".report you are not admin \n\n 🇩​🇴​🇳​🇹​ 🇹​🇷​🇾​ 🇦​🇬​🇦​🇮​🇳​, 🇮​🇫​ 🇾​🇴​🇺​ 🇹​🇷​🇾​ 🇾​🇴​🇺​ 🇼​🇮​🇱​🇱​ 🇧​🇪​ 🇷​🇪​🇲​🇴​🇻​🇪​🇩​ 🇧​🇾​ 🇦​🇩​🇲​🇮​🇳​🇸​",
+            "PLKADMIN": ".report you are not admin \n\n Kudutal ombittanam kanikkalle myre 🌝",
             "WARN": "Warn"
         },
         "_plugin": {
@@ -29,16 +29,16 @@
             "WARN": "Get plugins only from t.me/remasterplugin channel."
         },
         "admin": {
-            "BAN_DESC": "Ban someone in the group. Reply to message or tag a person to use command.",
-            "IM_NOT_ADMIN": "ꜱᴏʀʀʏ 🥲",
-            "BANNED": "po myre",
-            "GIVE_ME_USER": "ɢɪᴠᴇ ᴍᴇ ᴀ ucher killadi ano avan ",
-            "ADD_DESC": "Adds someone to the group 😌.",
-            "ADDED": "ᴀᴅᴅᴇᴅ ᴛᴏ ᴛʜᴇ ɢʀᴏᴜᴘ",
-            "ALREADY_PROMOTED": "ʜᴇ ɪꜱ ᴀʟʀᴇᴀᴅʏ ᴀᴅᴍɪɴ ᴏᴏᴘᴢ vivaram ille myre ninak",
-            "PROMOTED": ", ᴄᴏɴɢʀᴀᴛᴢ ʏᴏᴜ ᴀʀᴇ ᴘʀᴏᴍᴏᴛᴇᴅ",
-            "PROMOTE_DESC": "Makes any person an admin.",
-            "PLKADMIN": ".report you are not admin \n\n 🇩​🇴​🇳​🇹​ 🇹​🇷​🇾​ 🇦​🇬​🇦​🇮​🇳​, Mindayirunno myre",
+            "BAN_DESC": "Ban someone in the group. Reply to message or tag a person to use command🌝🌝👏🌝.",
+            "IM_NOT_ADMIN": "Sorry mowne ninak vivaram illa🥲",
+            "BANNED": "Myre you get losted",
+            "GIVE_ME_USER": "Give me a user killadi ano avan luttappina pola 😌",
+            "ADD_DESC": "Eth kundane veno groupil add cheyyam 😌.",
+            "ADDED": "Kundan vanne 😲",
+            "ALREADY_PROMOTED": "ʜᴇ ɪꜱ ᴀʟʀᴇᴀᴅʏ ᴀᴅᴍɪɴ 😲 vivaram ille myre ninak Respect chey avana😌",
+            "PROMOTED": ", ᴄᴏɴɢʀᴀᴛᴢ ʏᴏᴜ ᴀʀᴇ ᴘʀᴏᴍᴏᴛᴇᴅ But vilachil edukkaruth ketto",
+            "PROMOTE_DESC": "Makes any Kundan an admin.",
+            "PLKADMIN": ".report you are not admin \n\n 🇩​🇴​🇳​🇹​ 🇹​🇷​🇾​ 🇦​🇬​🇦​🇮​🇳​, Mindayirunno myre allel chunni vetti kadalil eriyum",
             "DEMOTE_DESC": "Takes the authority of any admin.",
             "ALREADY_NOT_ADMIN": "```How can I make someone admin who is already admin?```",
             "DEMOTED": "```, has been demoted!```",
@@ -78,9 +78,9 @@
         },
         "heroku": {
             "RESTART_DESC": "Restart pinky",
-            "RESTART_MSG": "ʀᴇꜱᴛᴀʀᴛɪɴɢ ᴘɪɴᴋʏ",
+            "RESTART_MSG": "ʀᴇꜱᴛᴀʀᴛɪɴɢ Rias",
             "SHUTDOWN_DESC": "Shutdown pinky",
-            "SHUTDOWN_MSG": "```Shutting down ⛔```",
+            "SHUTDOWN_MSG": "```Shutting down 🥲⛔```",
             "DYNO_DESC": "Check heroku dyno usage",
             "DYNO_TOTAL": "```Total Quota```",
             "DYNO_USED": "```Quota used```",
@@ -217,8 +217,8 @@
             "IMG": "Uploading photo ```{}``` number ```{} ```..."
         },
         "sticker": {
-            "STICKER_DESC": "It converts your replied photo or video to sticker😌.",
-            "NEED_REPLY": "\n*Reply to a photo or video!myre😑*\n",
+            "STICKER_DESC": "It converts your replied photo or video to sticker fear ayo😌.",
+            "NEED_REPLY": "\n*Reply to a photo or video!myre😑😑*\n",
             "DOWNLOADING": "Nikkar varunnu makkale 😌sry sticker 😅"
         },
         "system_stats": {
@@ -241,14 +241,14 @@
         },
         "updater": {
             "UPDATER_DESC": "Checks the update for pinky.",
-            "UPDATE": "ʏᴏᴜʀ ᴘɪɴᴋʏ ɪꜱ ᴄᴏᴍᴘʟᴇᴛᴇʟʏ ᴜᴘ-ᴛᴏ-ᴅᴀᴛᴇ",
+            "UPDATE": "ʏᴏᴜʀ Rias ɪꜱ ᴄᴏᴍᴘʟᴇᴛᴇʟʏ ᴜᴘ-ᴛᴏ-ᴅᴀᴛᴇ",
             "NEW_UPDATE": "*New update available for pinky!*\n\n ```use .list for commands``` \n\n *ask support group before updating or your bot might stop working* \n\n https://chat.whatsapp.com/EWLP9VPgYmgGff6NORWSKk \n\n *-if bot stop working you will have to re-deploy* \n\n Updates are:\n\n ",
             "UPDATE_NOW_DESC": "It makes updates.",
-            "UPDATING": "ᴘɪɴᴋʏ ᴜᴘᴅᴀᴛɪɴɢ...",
+            "UPDATING": "Rias ᴜᴘᴅᴀᴛɪɴɢ...",
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
             "UPDATED": "*✅ ꜱᴜᴄᴄᴇꜱꜱꜰᴜʟʟʏ ᴜᴘᴅᴀᴛᴇᴅ pinnalah myru 👏!*",
             "UPDATED_LOCAL": "*✅ Successfully Updated😌!*",
-            "AFTER_UPDATE": "*💬 ᴘɪɴᴋʏ ʀᴇꜱᴛᴀʀᴛɪɴɢ ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ!*",
+            "AFTER_UPDATE": "*💬 Rias ʀᴇꜱᴛᴀʀᴛɪɴɢ ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ!*",
             "IN_AF": "*Please check* ```HEROKU_APP_NAME``` *and* ```app name``` *They must be same.*\n*If these two values ​​are the same, please restore* ```HEROKU_API_KEY```\n\n_To access these settings, use Heroku >> App >> Settings >> Reavel Config Vars_\n_To renew your API key, follow these steps, Heroku >> Account >> API Key then replace old api key in config vars._"
         },
         "whois": {
@@ -476,7 +476,7 @@
             "NOT_FOUND": "*Media Not Found!*"
         },
         "github": {
-            "GİTHUB_DESC": "Collects github information from the given username.\n⌨️ Example: .github afnanplk",
+            "GİTHUB_DESC": "Collects github information from the given username.\n⌨️ Example: .githubashwinas543",
             "REPLY": "```You Need To Type Any Username!```",
             "NOT": "```User not found!```",
             "FOLLOWERS": "Followers:",
@@ -509,7 +509,7 @@
             "HUMI": "Humidity",
             "WIND": "Wind Speed",
             "CLOUD": "Cloud",
-            "NOT_FOUND": "```location not found 😖```",
+            "NOT_FOUND": "```location not found gf inta anoda 🌝😖```",
             "QUOTE_DESC": "Gives a random quote.",
             "NEED_LOCATIONA": "*Invalid Request*",
             "QUOTE": "Quote:",
@@ -552,8 +552,8 @@
             "TITLE": "Title",
             "PUBLICATION": "Publication",
             "SONGL": "Link",
-            "NEED_SONG": "Write a song name.",
-            "NOT_FOUNDS" : "No such songs found!",
+            "NEED_SONG": "Write a song name like andi varuttolee 🎶.",
+            "NOT_FOUNDS" : "No such songs found antada njan oru song padi taratte!",
             "JOOX_DESC": "Brings you the song details and a link for it.",
             "LYRICS_DESC": "Brings you the song Lyrics.",
             "SONGLI": "Lyrics",
@@ -569,7 +569,7 @@
              "USERNAME":"Username",
             "CAPTION":"Caption",
              "VID":"Video",
-             "NEED_WORDIG":"Download videos from IG link",
+             "NEED_WORDIG":"Download videos from IG link Reels anel kollam 🌝",
             "IGDESC":"Download videos from IG link \n For Reels change the 'reels' in the link to 'p'.",
             "FBDESC":"Download videos from fb link",
             "NEED_WORDFB":"Download videos from fb link",
@@ -602,7 +602,7 @@
         },
         "covid": {
             "COV_DESC": "Shows the daily and overall covid table of more than 15 countries.",
-            "NOT": "```Sorry I Could Not Find A Country Like This! Please Enter Applicable Country Codes!```\n\n```Country Codes:``` *.covid tr || az || usa || in || cn || nl || pk || ru || de || uk || gr || fr || jp || kz || id*"
+            "NOT": "```Sorry I Could Not Find A Country Like This! Please Enter Applicable Country Codes ni mask vekkulla allew 😑!```\n\n```Country Codes:``` *.covid tr || az || usa || in || cn || nl || pk || ru || de || uk || gr || fr || jp || kz || id*"
         }
     }
 }
